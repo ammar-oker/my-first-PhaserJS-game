@@ -1,0 +1,19 @@
+{
+  "name": "first-game",
+  "version": "1.0.0",
+  "description": "My first game with PhaserJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammar-oker/my-first-PhaserJS-game.git"
+  },
+  "author": "Ammar Oker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ammar-oker/my-first-PhaserJS-game/issues"
+  },
+  "homepage": "https://github.com/ammar-oker/my-first-PhaserJS-game#readme"
+}
